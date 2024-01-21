@@ -1,2 +1,3 @@
-﻿  test.c
-  fat32_ex.vcxproj -> E:\FAT32_\src\fat32_ex\x64\Debug\fat32_ex.exe
+﻿  fatfs_test.c
+E:\FAT32_Design\src\fat32_ex\fat32_ex\fatfs_test.c(22,57): warning C4090: “函数”: 不同的“const”限定符
+  fat32_ex.vcxproj -> E:\FAT32_Design\src\fat32_ex\x64\Debug\fat32_ex.exe

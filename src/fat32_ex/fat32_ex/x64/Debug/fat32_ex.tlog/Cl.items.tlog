@@ -1,1 +1,4 @@
-E:\FAT32_\src\fat32_ex\fat32_ex\test.c;E:\FAT32_\src\fat32_ex\fat32_ex\x64\Debug\test.obj
+E:\FAT32_Design\src\fat32_ex\fat32_ex\driver.c;E:\FAT32_Design\src\fat32_ex\fat32_ex\x64\Debug\driver.obj
+E:\FAT32_Design\src\fat32_ex\fat32_ex\fatfs_test.c;E:\FAT32_Design\src\fat32_ex\fat32_ex\x64\Debug\fatfs_test.obj
+E:\FAT32_Design\src\fat32_ex\fat32_ex\xdisk.c;E:\FAT32_Design\src\fat32_ex\fat32_ex\x64\Debug\xdisk.obj
+E:\FAT32_Design\src\fat32_ex\fat32_ex\xfat.c;E:\FAT32_Design\src\fat32_ex\fat32_ex\x64\Debug\xfat.obj
