@@ -1,3 +1,11 @@
-﻿  fatfs_test.c
-E:\FAT32_Design\src\fat32_ex\fat32_ex\fatfs_test.c(22,57): warning C4090: “函数”: 不同的“const”限定符
+﻿  driver.c
+  fatfs_test.c
+  xdisk.c
+  xfat.c
+E:\FAT32_Design\src\fat32_ex\fat32_ex\driver.c(51,8): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\FAT32_Design\src\fat32_ex\fat32_ex\driver.c(75,8): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\FAT32_Design\src\fat32_ex\fat32_ex\fatfs_test.c(21,40): warning C4133: “函数”: 从“xdisk_driver_t *”到“xdisk_t *”的类型不兼容
+E:\FAT32_Design\src\fat32_ex\fat32_ex\fatfs_test.c(21,69): warning C4090: “函数”: 不同的“const”限定符
+E:\FAT32_Design\src\fat32_ex\fat32_ex\xdisk.c(7,15): warning C4133: “=”: 从“xdisk_t *”到“xdisk_driver_t *”的类型不兼容
+  正在生成代码...
   fat32_ex.vcxproj -> E:\FAT32_Design\src\fat32_ex\x64\Debug\fat32_ex.exe
